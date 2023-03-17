@@ -15,7 +15,7 @@ int main(int argc, _TCHAR* argv[])
 
 	return 0;
 
-	cout << "BY MVA";
+	cout << "TheTransheir419";
 
 	Sleep(2000);
 }
